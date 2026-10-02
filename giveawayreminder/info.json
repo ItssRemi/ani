@@ -1,0 +1,11 @@
+{
+  "author": ["Remi", "ChatGPT"],
+  "install_msg": "Dank Memer giveaway reminder installed. Load with [p]load giveawayreminder.",
+  "name": "GiveawayReminder",
+  "short": "Reminds users when Dank Memer giveaway create is ready again.",
+  "description": "Tracks Dank Memer giveaway create items and coins confirmations, sends a 5 minute cooldown confirmation, then pings the user when the matching command is ready again.",
+  "tags": ["dank memer", "giveaway", "reminder"],
+  "requirements": [],
+  "min_bot_version": "3.5.0",
+  "end_user_data_statement": "Stores Discord user IDs, channel IDs, message IDs, reminder type, and reminder timestamps for active giveaway reminders only."
+}
